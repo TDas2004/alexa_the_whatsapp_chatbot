@@ -1,4 +1,4 @@
-./alexa_key/.secret_keys
-./__pycache__
-./__pycache__/*
+alexa_key/.secret_keys
+__pycache__
+__pycache__/*
 venv_311/*
